@@ -6,6 +6,7 @@ internal knowledge, the system enhances responses by grounding them in retrieved
 # System Overview
 
 This project follows the standard RAG workflow:
+
 🔹 Step 1: Document Chunking
 - The dataset is split into overlapping chunks to improve retrieval quality and preserve context.
 - Chunk size: 80 characters
