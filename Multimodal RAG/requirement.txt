@@ -1,1 +1,9 @@
-
+langchain
+unstructured
+unstructured[pdf]
+faiss-cpu
+openai
+tiktoken
+pillow
+ipython
+python-dotenv
