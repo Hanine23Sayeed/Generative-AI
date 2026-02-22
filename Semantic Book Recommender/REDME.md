@@ -1,4 +1,4 @@
-# Semantic Book Recommender
+# LLM Semantic Book Recommender
 
 An LLM Semantic Book Recommender System built with Python, OpenAI, LangChain, Hugging Face, Chroma, and Gradio. This project recommends books based on semantic meaning, category, and emotional tone, offering a human-centric approach to discovering new books.
 
