@@ -1,6 +1,6 @@
 # Semantic Book Recommender
 
-A Semantic Book Recommender System built with Python, OpenAI, LangChain, Hugging Face, Chroma, and Gradio. This project recommends books based on semantic meaning, category, and emotional tone, offering a human-centric approach to discovering new books.
+An LLM Semantic Book Recommender System built with Python, OpenAI, LangChain, Hugging Face, Chroma, and Gradio. This project recommends books based on semantic meaning, category, and emotional tone, offering a human-centric approach to discovering new books.
 
 # Features
 
@@ -45,3 +45,21 @@ A Semantic Book Recommender System built with Python, OpenAI, LangChain, Hugging
 - System retrieves top recommendations based on semantic similarity, category, and emotion.
 
 - Displays book covers and titles for easy browsing.
+
+# Tools & Technologies
+
+- Python – main programming language
+
+- OpenAI Embeddings – semantic vector representations
+
+- LangChain – document management & vector search pipeline
+
+- Chroma DB – vector database for semantic search
+
+- Hugging Face Transformers – zero-shot classification & emotion analysis
+
+- Gradio – interactive dashboard for book recommendations
+
+- Pandas & NumPy – data manipulation
+
+- Seaborn & Matplotlib – exploratory data analysis
