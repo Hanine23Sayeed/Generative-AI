@@ -11,6 +11,8 @@ generate platform-specific posts, and optionally enrich them with up-to-date web
 6- Asynchronous Processing: Fast, smooth, and responsive user experience.
 7 -Custom Queries: Ask the agent for specific post styles or tones.
 
+# Technologies used
+
 | Technology                 | Purpose                                     |
 | -------------------------- | ------------------------------------------- |
 | **Python 3.11+**           | Core programming language                   |
